@@ -6,25 +6,25 @@
    * required
    * example: "https://console.dogutech.io"
    */
-  "apiBaseUrl": "INSERT_YOUR_API_BASE_URL",
+  "apiBaseUrl": "https://console.dogutech.io",
 
   // required
-  "organizationId": "INSERT_YOUR_ORGANIZATION_ID",
+  "organizationId": "884c8880-2ed4-4850-bfca-c236f006e187",
 
   // required
-  "projectId": "INSERT_YOUR_PROJECT_ID",
+  "projectId": "dc9fb9dd-2dd0-45a8-9828-79d049fb5521",
 
   // required
-  "token": "INSERT_YOUR_TOKEN",
+  "token": "dogu-project-token-7a8f8i9i5jeaiunox37rqoc3x2k1",
 
   /*
    * required
    * example: "macos", "windows", "android", "ios" or your custom tag on the Dogu
    */
-  "runsOn": "INSERT_YOUR_TAG"
+  "runsOn": "android"
 
   // "browserName": "chrome",
   // "browserVersion": "INSERT_YOUR_BROWSER_VERSION",
-  // "appVersion": "INSERT_YOUR_APP_VERSION",
+  "appVersion": "2.5.194-alpha-2017-05-30",
   // "failFast": false,
 }
